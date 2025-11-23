@@ -1,0 +1,5 @@
+{
+  "name": "FrappeInsight AI",
+  "description": "An intelligent chat interface for Frappe ERP systems. Ask questions in any language to visualize data instantly from your DocTypes.",
+  "requestFramePermissions": []
+}
